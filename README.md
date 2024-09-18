@@ -1,6 +1,6 @@
 
 ## Overview
-Welcome to the Next.js Admin Panel Fullstack Project! This application is built using Next.js, Shadcn, tRPC, Drizzle, and Neon. Designed as an admin interface, it provides a robust and reusable foundation for new projects.
+Welcome to the Next.js Fullstack Registration Page Project! This application is built using Next.js, Shadcn, tRPC, Drizzle, and Neon. Designed as an admin interface, it provides a robust and reusable foundation for new projects.
 
 ## Getting Started
 
